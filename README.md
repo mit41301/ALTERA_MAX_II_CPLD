@@ -10,6 +10,8 @@
 ## EPM1270T144
 <img width="982" height="654" alt="33_EPM1270" src="https://github.com/user-attachments/assets/1fa98930-01ab-4a0f-b247-fdd2a56ee04a" />
 
+[Example](https://www.waveshare.com/w/upload/f/f7/EPM1270-Demo.7z)
+
 ## EPM570 SEG SW LED
 <img width="2976" height="1984" alt="33_EPM570_SW_LED" src="https://github.com/user-attachments/assets/c8ee17a5-f45e-4ba2-a0e9-c014503f61b0" />
 
